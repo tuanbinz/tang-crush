@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Em à!',
-    introDesc: `Em có thể cười 1 xíu không?
+    introDesc: `Em có thể cười 1 xíu không ?
     Cà phê của anh quên cho đường rồi ♥ `,
     btnIntro: 'Cười',
     title: 'Gửi Ngân Hà người anh yêuuuuuuu',
